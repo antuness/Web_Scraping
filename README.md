@@ -2,7 +2,7 @@
 
 # Nome do projeto
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="image_page.jpeg" alt="Exemplo imagem">
 
 > Há diferentes maneiras para você obter imagens para o seu banco de dados e uma delas é pelo processo web scraping.
 
